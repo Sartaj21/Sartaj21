@@ -7,4 +7,7 @@
     </div>
     <center><h1>What am I working on right now</h1>
     <p>Right now I am working on a website that my team will showcase to Halsett Robotics Club for a possible future website. On the side of this I am working on a scouting software that will also help with scoring for the new Vex Game.</center>
+    
+    [![Sartaj's Github Stats](https://github-readme-stats.vercel.app/api?username=Sartaj21)](https://github.com/anuraghazra/github-readme-stats&hide=stars&show_icons=true)
+
 </body>
