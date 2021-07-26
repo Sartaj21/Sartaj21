@@ -7,8 +7,10 @@
     </div>
     <h1>What am I working on right now</h1>
     Right now I am working on my robotic teams tipping point code. Currently I am devloping odom.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
-
+    
+ 
 [![Sartaj's github stats](https://github-readme-stats.vercel.app/api?username=Sartaj21&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
 
 </body>
