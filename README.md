@@ -1,8 +1,6 @@
 <link rel = "stylesheet" type = "text/css" href = "style.css" />
 <body>
     
-    ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
-
     <img width="1440" alt="Screen Shot 2020-07-24 at 2 11 35 PM" src="https://raw.githubusercontent.com/Sartaj21/Sartaj21/master/Hi%20I%20am%20Sartaj%20Gill.gif"></img>
     <div class="AboutMe">
         <center><h1>About Me </h1></center>
@@ -15,5 +13,7 @@
 [![Sartaj's github stats](https://github-readme-stats.vercel.app/api?username=Sartaj21&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
 
 </body>
