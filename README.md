@@ -1,5 +1,8 @@
 <link rel = "stylesheet" type = "text/css" href = "style.css" />
 <body>
+    
+    ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
+
     <img width="1440" alt="Screen Shot 2020-07-24 at 2 11 35 PM" src="https://raw.githubusercontent.com/Sartaj21/Sartaj21/master/Hi%20I%20am%20Sartaj%20Gill.gif"></img>
     <div class="AboutMe">
         <center><h1>About Me </h1></center>
