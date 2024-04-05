@@ -35,8 +35,8 @@
 ## Statistics :chart_with_upwards_trend:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/?username=Sartaj21&count_private=true&theme=github_dark&rank_icon=github" />
+  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api/?username=Sartaj21&count_private=true&theme=github_dark&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sartaj21&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=github_dark" />
+  <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sartaj21&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=github_dark" />
 </a>
