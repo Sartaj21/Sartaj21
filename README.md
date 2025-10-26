@@ -1,8 +1,4 @@
-# Hi, I'm Sataj Gill 🙌
-- A prospective computer science student, hoping to pursue a career in quantitive computing
-- Enjoys robotics :robot:, economics, and software development
-- Lives in East Lansing, Michigan
-- Captain of VEX Robotics Team 7580Z
+# 🙌 Hi, I am Sartaj Gill, a student studying computer science and economics at University of Wisconsin—Madison!
 
 ## Languages & Technology :computer:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
