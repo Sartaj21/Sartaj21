@@ -20,7 +20,7 @@
 
 ## Contact me :calling:
 <p align="left">
-<a href="https://www.linkedin.com/in/sartaj-gill-57561a215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-liao4253" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/sartaj-gill-57561a215/](https://www.linkedin.com/in/sartajg/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-liao4253" height="30" width="40" /></a>
 
 </p>
 
